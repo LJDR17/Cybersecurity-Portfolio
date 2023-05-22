@@ -4,4 +4,6 @@
 * [IBM Cybersecurity Analyst Professional Certificate](ibm-cybersecurity-analyst-professional-certificate/README.md)
   * [Introduction to Cybersecurity Tools & Cyber Attacks](ibm-cybersecurity-analyst-professional-certificate/introduction-to-cybersecurity-tools-and-cyber-attacks.md)
 * [Hack the box](hack-the-box.md)
-* [TryHackMe](tryhackme.md)
+* [TryHackMe](tryhackme/README.md)
+  * [Nmap](tryhackme/nmap.md)
+  * [Nessus](tryhackme/nessus.md)
