@@ -7,3 +7,4 @@
 * [TryHackMe](tryhackme/README.md)
   * [Nmap](tryhackme/nmap.md)
   * [Nessus](tryhackme/nessus.md)
+  * [Wireshark](tryhackme/wireshark.md)
