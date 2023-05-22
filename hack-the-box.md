@@ -4,4 +4,6 @@ description: Explanation of all the exercises I complete
 
 # Hack the box
 
-here you&#x20;
+## Network enumeration with Nmap
+
+This module is the first module I'll complete in order to practice my cyber skills.
