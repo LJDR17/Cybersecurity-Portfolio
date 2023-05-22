@@ -1,7 +1,3 @@
----
-description: Explanation of all the exercises I complete
----
-
 # Hack the box
 
 ## Network enumeration with Nmap

@@ -1,7 +1,3 @@
----
-description: Documentation of my journey through this course
----
-
 # IBM Cybersecurity Analyst Professional Certificate
 
 To further my skills in cybersecurity I have started to complete a cybersecurity analyst certificate by IBM. This is a course made up of 8 parts:
