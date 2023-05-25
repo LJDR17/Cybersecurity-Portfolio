@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Table of contents](README.md)
+* [Introduction](README.md)
 * [Introduction](introduction.md)
 * [Hack the box](hack-the-box/README.md)
   * [Network enumeration with Nmap](hack-the-box/network-enumeration-with-nmap.md)
