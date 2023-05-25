@@ -6,7 +6,7 @@ This CTF involved an empty webpage with 2 options which changed the background c
 
 Utilising Burp Suite, we can see the methods used for the buttons are GET and POST which is odd given the functionality is the same for both buttons.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 We can also see GET is used to request the webpage.
 
@@ -14,4 +14,4 @@ We can also see GET is used to request the webpage.
 
 Changing this to POST yields no results...What happens if we change it the HEAD...We can finally see that changing the method to HEAD displays the headers of the page, including the flag.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

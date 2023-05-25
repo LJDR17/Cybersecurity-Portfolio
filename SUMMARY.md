@@ -9,6 +9,7 @@
 * [picoCTF](picoctf/README.md)
   * [GET aHEAD](picoctf/get-ahead.md)
   * [logon](picoctf/logon.md)
+  * [SOAP](picoctf/soap.md)
 * [TryHackMe](tryhackme/README.md)
   * [Nessus](tryhackme/nessus.md)
   * [Nmap](tryhackme/nmap.md)

@@ -2,7 +2,7 @@
 
 This CTF first starts with a form element...
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ...However entering any details would prove unsuccessful at solving this one.
 
@@ -14,4 +14,4 @@ Utilising Burp Suite we can see that a new request has been made called flag whi
 
 Upon setting this field to true and sending a request, we are finally met with the flag.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
