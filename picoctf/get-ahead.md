@@ -14,4 +14,4 @@ We can also see GET is used to request the webpage.
 
 Changing this to POST yields no results...What happens if we change it the HEAD...We can finally see that changing the method to HEAD displays the headers of the page, including the flag.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
