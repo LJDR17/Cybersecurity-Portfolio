@@ -1,6 +1,6 @@
 # Introduction to Cybersecurity Tools & Cyber Attacks
 
-I have completed the first part, which gave an overview of attacks, attackers, and tools used to defend against these attacks. What particularly interested me in this course was learning about the range of cyber attacks, including:
+This course gave an overview of attacks, attackers, and tools used to defend against these attacks. What particularly interested me was learning about the range of cyber attacks, including:
 
 * Packet sniffing
 * IP spoofing
