@@ -4,6 +4,6 @@ Welcome to my blog. You'll find here my journey through cybersecurity and intere
 
 <div align="center" data-full-width="true">
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
