@@ -12,7 +12,7 @@ This course gave an overview of attacks, attackers, and tools used to defend aga
 
 ...As well as the cyber kill chain.
 
-Networking is a topic that caught my eye in particular and network defences was also something I particularly enjoyed learning about, including:
+Networking is a topic that caught my eye in particular and network defences were also something I particularly enjoyed learning about, including:
 
 * Firewalls - stateful and stateless
 * Packet filtering
