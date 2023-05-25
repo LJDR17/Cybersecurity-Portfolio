@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Table of contents](README.md)
-* [Introduction](<README (1).md>)
+* [Introduction](introduction.md)
 * [Hack the box](hack-the-box/README.md)
   * [Network enumeration with Nmap](hack-the-box/network-enumeration-with-nmap.md)
 * [IBM Cybersecurity Analyst Professional Certificate](ibm-cybersecurity-analyst-professional-certificate/README.md)
