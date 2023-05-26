@@ -7,3 +7,5 @@ This course gave an overview of:
 * the CIA triad and AAA
 * Windows and Linux file systems and commands
 * Virtualisation and cloud computing
+
+What particularly interested me here was learning more about how to use linux. I now know more about its commands, file structure and access control.
