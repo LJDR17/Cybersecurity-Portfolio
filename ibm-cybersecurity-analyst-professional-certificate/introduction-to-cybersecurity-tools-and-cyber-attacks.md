@@ -17,3 +17,9 @@ Networking is a topic that caught my eye in particular and network defences were
 * Firewalls - stateful and stateless
 * Packet filtering
 * XML gateways
+
+<div align="center">
+
+<figure><img src="../.gitbook/assets/introduction-to-cybersecurity-tools-cyber-attacks.png" alt=""><figcaption></figcaption></figure>
+
+</div>
