@@ -9,3 +9,7 @@ This course gave an overview of:
 * Virtualisation and cloud computing
 
 What particularly interested me here was learning more about how to use linux. I now know more about its commands, file structure and access control.
+
+
+
+<figure><img src="../.gitbook/assets/cybersecurity-roles-processes-operating-system-security.png" alt=""><figcaption></figcaption></figure>
