@@ -18,7 +18,7 @@ Networking is a topic that caught my eye in particular and network defences were
 * Packet filtering
 * XML gateways
 
-<div align="center">
+<div align="center" data-full-width="true">
 
 <figure><img src="../.gitbook/assets/introduction-to-cybersecurity-tools-cyber-attacks.png" alt=""><figcaption></figcaption></figure>
 

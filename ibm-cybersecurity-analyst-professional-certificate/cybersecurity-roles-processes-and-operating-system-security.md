@@ -12,4 +12,8 @@ What particularly interested me here was learning more about how to use linux. I
 
 
 
+<div align="center" data-full-width="true">
+
 <figure><img src="../.gitbook/assets/cybersecurity-roles-processes-operating-system-security.png" alt=""><figcaption></figcaption></figure>
+
+</div>
