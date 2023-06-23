@@ -6,6 +6,7 @@
 * [IBM Cybersecurity Analyst Professional Certificate](ibm-cybersecurity-analyst-professional-certificate/README.md)
   * [Introduction to Cybersecurity Tools & Cyber Attacks](ibm-cybersecurity-analyst-professional-certificate/introduction-to-cybersecurity-tools-and-cyber-attacks.md)
   * [Cybersecurity Roles, Processes & Operating System Security](ibm-cybersecurity-analyst-professional-certificate/cybersecurity-roles-processes-and-operating-system-security.md)
+  * [Cybersecurity Compliance Framework & System Administration](ibm-cybersecurity-analyst-professional-certificate/cybersecurity-compliance-framework-and-system-administration.md)
 * [picoCTF](picoctf/README.md)
   * [GET aHEAD](picoctf/get-ahead.md)
   * [logon](picoctf/logon.md)
