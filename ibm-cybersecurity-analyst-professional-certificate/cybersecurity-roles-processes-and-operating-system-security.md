@@ -8,9 +8,7 @@ This course gave an overview of:
 * Windows and Linux file systems and commands
 * Virtualisation and cloud computing
 
-What particularly interested me here was learning more about how to use linux. I now know more about its commands, file structure and access control.
-
-
+What particularly interested me here was learning more about how to use Linux. I now know more about its commands, file structure and access control.
 
 <div align="center" data-full-width="true">
 
