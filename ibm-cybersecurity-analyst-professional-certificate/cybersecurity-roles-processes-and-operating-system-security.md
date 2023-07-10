@@ -10,6 +10,8 @@ This course gave an overview of:
 
 What particularly interested me here was learning more about how to use linux. I now know more about its commands, file structure and access control.
 
+/
+
 
 
 <div align="center" data-full-width="true">

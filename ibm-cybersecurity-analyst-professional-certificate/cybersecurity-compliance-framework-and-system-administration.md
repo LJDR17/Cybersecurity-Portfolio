@@ -14,4 +14,4 @@ As well as this, learning how clients were managed and endpoints protected was a
 
 Furthermore, it was interesting to consider the common pitfalls businesses have when it comes to data encryption, in all kinds of scenarios, whether the data is at rest, in transit, or in use. An assignment was also given here, which involved the use of setting up user and group accounts in Kali Linux, encrypting files using ccrypt, and creating an encrypted email using Mailvelope, which was an enjoyable practical aspect.
 
-<figure><img src="../.gitbook/assets/cybersecurity-compliance-framework-system-administration (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cybersecurity-compliance-framework-system-administration (2).png" alt=""><figcaption></figcaption></figure>
