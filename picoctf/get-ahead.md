@@ -1,3 +1,7 @@
+---
+description: Web exploitation
+---
+
 # GET aHEAD
 
 This CTF involved an empty webpage with 2 options which changed the background colour of the page. The flag, however was not related to any of these functions...
