@@ -14,7 +14,7 @@ Utilising Burp Suite, we can see the methods used for the buttons are GET and PO
 
 We can also see GET is used to request the webpage.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Changing this to POST yields no results...What happens if we change it the HEAD...We can finally see that changing the method to HEAD displays the headers of the page, including the flag.
 

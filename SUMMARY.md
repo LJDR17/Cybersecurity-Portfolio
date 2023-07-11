@@ -13,6 +13,7 @@
   * [logon](picoctf/logon.md)
   * [SOAP](picoctf/soap.md)
   * [Wireshark doo dooo do doo...](picoctf/wireshark-doo-dooo-do-doo....md)
+  * [hideme](picoctf/hideme.md)
 * [TryHackMe](tryhackme/README.md)
   * [Nessus](tryhackme/nessus.md)
   * [Nmap](tryhackme/nmap.md)

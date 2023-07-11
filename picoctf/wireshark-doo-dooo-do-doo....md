@@ -10,6 +10,6 @@ This CTF first gave a PCAP in which I decided to cycle through the TCP streams s
 
 We can see there is a separate string of text at the bottom which looks encrypted.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 I used an online tool which identified the type of encryption used which resulted in ROT13 being the most likely candidate. I then found an online ROT13 decoder which then decoded the text to give me the flag.
